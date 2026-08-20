@@ -45,7 +45,7 @@ Durante o desenvolvimento, pratiquei conceitos de:
 
 ## 🖥️ Dashboard
 
-*Imagem do dashboard será adicionada aqui.*
+![Dashboard de Análise Financeira](../Analise%20financeira.png)
 
 ---
 
